@@ -794,18 +794,6 @@ const sidebars = {
             "integrations/data-ingestion/kafka/kafka-table-engine-named-collections"
           ],
         },
-        {
-          type: "category",
-          label: "Apache Spark",
-          className: "top-nav-item",
-          collapsed: true,
-          collapsible: true,
-          items: [
-            "integrations/data-ingestion/apache-spark/index",
-            "integrations/data-ingestion/apache-spark/spark-native-connector",
-            "integrations/data-ingestion/apache-spark/spark-jdbc",
-          ],
-        },
         "integrations/data-sources/mysql",
         "integrations/data-sources/cassandra",
         "integrations/data-sources/redis",
